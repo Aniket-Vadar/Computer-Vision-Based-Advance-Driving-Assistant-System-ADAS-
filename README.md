@@ -40,19 +40,14 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Built with 
 
-Python
-OpenCv
-YOLO
-Flask
-
-
-## Team
-
-[Harsh Vijay ](https://github.com/Aniket-Vadar) 
+1. Python
+2. OpenCv
+3. YOLO
+4. Flask
 
 
 
-MIT © [Harsh Vijay ](https://github.com/Aniket-Vadar)
+
 
 
 
